@@ -1,0 +1,58 @@
+.row1{
+    background-color: red;
+}
+
+.row > *{
+    border: 1px solid white;
+}
+
+.row2{
+    background-color: rgb(0, 21, 255);
+}
+
+.row > *{
+    border: 1px solid white;
+}
+
+.row3{
+    background-color: rgb(0, 255, 85);
+}
+
+.row > *{
+    border: 1px solid white;
+}
+
+.row4{
+    background-color: rgb(242, 255, 0);
+}
+
+.row > *{
+    border: 1px solid white;
+}
+
+.row5{
+    background-color: rgb(255, 179, 0);
+}
+
+.row > *{
+    border: 1px solid white;
+}
+
+.row6{
+    background-color: rgb(204, 0, 255);
+}
+
+.row > *{
+    border: 1px solid white;
+}
+
+.row7{
+    background-color: rgb(0, 238, 255);
+}
+
+.row > *{
+    border: 1px solid white;
+}
+
+
+
